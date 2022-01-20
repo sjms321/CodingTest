@@ -1,6 +1,3 @@
-from re import L
-
-
 n = int(input())
 list = []
 for i in range(n): 
