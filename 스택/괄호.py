@@ -15,3 +15,4 @@ for i in range(a):
         print('NO')
     elif sum == 0:
         print('YES')
+        ddddddd
